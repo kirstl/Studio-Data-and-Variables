@@ -14,7 +14,7 @@ let averageAstronautMassKg = 80.7;
 
 let crewMassKg = astronautCount * averageAstronautMassKg;
 
-let fuelMassKg = 760000; 
+let fuelMassKg = '760000';  
 
 let shuttleMassKg = 74842.31;
 
